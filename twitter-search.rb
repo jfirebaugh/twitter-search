@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'rubygems'
+require 'sinatra'
 require 'twitter'
 require 'cgi'
 require 'csv'
