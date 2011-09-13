@@ -21,6 +21,7 @@ get "/" do
 <<-HTML
 <!doctype html>
 <html>
+  <title>Twitter Search</title>
   <style>
     body { font-size: 120%; text-align: center; }
     input[type="text"] { width: 300px; }
